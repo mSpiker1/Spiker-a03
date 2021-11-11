@@ -3,6 +3,8 @@ package baseline;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
+//make sure you use the gradle run task for this unit test, it is broken otherwise for some reason
+//I tried for like an hour to fix it but idk what is wrong with it
 class Solution24Test{
     @Test
         //Test for isAnagram to ensure that if two strings "add" and "dad" are input that it would return true
