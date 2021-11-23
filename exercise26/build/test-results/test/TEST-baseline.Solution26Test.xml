@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="baseline.Solution26Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-02T01:02:16" hostname="MATT-DESKTOP" time="0.013">
+<testsuite name="baseline.Solution26Test" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-11-23T20:08:22" hostname="MATT-DESKTOP" time="0.018">
   <properties/>
-  <testcase name="testpayCalc()" classname="baseline.Solution26Test" time="0.013"/>
+  <testcase name="calculateMonthsUntilPaidOffTest()" classname="baseline.Solution26Test" time="0.017"/>
+  <testcase name="formatMonthsTest()" classname="baseline.Solution26Test" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
