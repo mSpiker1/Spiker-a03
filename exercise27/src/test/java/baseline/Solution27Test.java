@@ -57,10 +57,10 @@ class Solution27Test{
 
         //assert that inputting all correct parameters into validateInput returns a string containing:
         //"There were no errors found."
-        assertEquals(good, Validate.validateInput(first, last, id, zip));
+        assertEquals(good, Validate.validateInput(first, last, zip, id));
 
         //assert that inputting all correct parameters except id (badID instead) returns a string containing:
         //"The employee ID must be in the format of AA-1234.\n"
-        assertEquals(bad, Validate.validateInput(first, last, badId, zip));
+        assertEquals(bad, Validate.validateInput(first, last, zip, badId));
     }
 }

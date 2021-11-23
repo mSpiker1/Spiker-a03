@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="baseline.Solution27Test" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-10-02T02:13:01" hostname="MATT-DESKTOP" time="0.015">
+<testsuite name="baseline.Solution27Test" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-11-23T21:23:35" hostname="MATT-DESKTOP" time="0.018">
   <properties/>
-  <testcase name="testZip()" classname="baseline.Solution27Test" time="0.013"/>
-  <testcase name="testID()" classname="baseline.Solution27Test" time="0.0"/>
+  <testcase name="testZip()" classname="baseline.Solution27Test" time="0.014"/>
+  <testcase name="testID()" classname="baseline.Solution27Test" time="0.001"/>
   <testcase name="testFirstAndLast()" classname="baseline.Solution27Test" time="0.0"/>
+  <testcase name="testValidateInput()" classname="baseline.Solution27Test" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
