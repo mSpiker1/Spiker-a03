@@ -15,3 +15,7 @@
 only contains one variable, one output statement, and one input statement. If I were to
 restructure the code in order to make this exercise more testable, it would only make this
 extremely simple program 10x more complicated than it needs to be.
+
+###### Exercise 30:
+>re-did psuedocode, did not add a unit test because it's all just a main method. It's just
+a bunch of output in nested for loops, there's nothing to test.
