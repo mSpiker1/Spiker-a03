@@ -27,3 +27,9 @@ for this exercise. This exercise also has a unit test now.
 
 ###### Exercise 35:
 >Optimized method usage better; added unit testing for the method that randomly selects a winner
+
+###### Exercise 37:
+>Added a unit test for the createPassword method. Also fixed the create password method so that
+it would properly generate a password if the number of special characters and numeric characters
+was greater than half the minimum length (e.g. so there would always be at least as many letters
+in the password as numeric and special characters combined)
