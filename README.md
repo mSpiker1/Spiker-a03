@@ -24,3 +24,6 @@ a bunch of output in nested for loops, there's nothing to test.
 >Separated the main method into two methods; the main method, and the eightBall method, which returns
 a random string from an array of four. The main reason for doing this is so that I could make a unit test
 for this exercise. This exercise also has a unit test now.
+
+###### Exercise 35:
+>Optimized method usage better; added unit testing for the method that randomly selects a winner
