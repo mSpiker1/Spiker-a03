@@ -19,3 +19,8 @@ extremely simple program 10x more complicated than it needs to be.
 ###### Exercise 30:
 >re-did psuedocode, did not add a unit test because it's all just a main method. It's just
 a bunch of output in nested for loops, there's nothing to test.
+
+###### Exercise 33:
+>Separated the main method into two methods; the main method, and the eightBall method, which returns
+a random string from an array of four. The main reason for doing this is so that I could make a unit test
+for this exercise. This exercise also has a unit test now.
