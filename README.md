@@ -33,3 +33,9 @@ for this exercise. This exercise also has a unit test now.
 it would properly generate a password if the number of special characters and numeric characters
 was greater than half the minimum length (e.g. so there would always be at least as many letters
 in the password as numeric and special characters combined)
+
+###### Exercises 39 & 40:
+>Tried to redo properly but ended up not having time, needed to get things ready for Thanksgiving.
+Fortunately, the rest of the assignment should still be enough to warrant at least a 50 for credit for
+this if it is needed to bump my grade in the class. I just get confused by maps, I'll try to learn them
+better soon.
